@@ -398,7 +398,7 @@ ul {
 }
 
 
-@media (max-width:991) {
+@media (max-width:991px) {
     .landing .image img {
         display: none;
     }
